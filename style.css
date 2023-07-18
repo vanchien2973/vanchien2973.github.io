@@ -1,0 +1,10 @@
+body{
+    background-color: aliceblue;
+    margin: 0 5 auto;
+    border: 5px solid;
+}
+h2 {
+    font-size: 200%;
+    color: aqua;
+    background-color: azure;
+}
